@@ -1,4 +1,4 @@
-package iterator;
+package main.iterator;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
