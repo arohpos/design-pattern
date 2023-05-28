@@ -1,0 +1,4 @@
+alice@example.com = Alice
+bob@example.com = Bob
+cindy@example.com = Cindy
+daisy@example.com = Daisy
